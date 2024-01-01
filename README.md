@@ -1,4 +1,3 @@
-![image](https://github.com/Tomfx03/timetable/assets/101335832/24ed2b40-f257-4cb5-ac78-fbc36fda4df9)# Experiment_Time_Table
 
 ## AIM
 To Write a html webpage page to display your timetable.
